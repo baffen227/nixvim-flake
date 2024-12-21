@@ -15,3 +15,9 @@ To test your configuration simply run the following command
 ```
 nix run .
 ```
+
+To launch nixvim in the current folder
+
+```
+nix run <path>/nixvim-flake# -- .
+```
