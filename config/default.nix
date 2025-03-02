@@ -22,6 +22,7 @@
     ./plugins/neo-tree.nix
     ./plugins/treesitter.nix
     ./plugins/completion.nix
+    ./plugins/web-devicons.nix
     #./plugins/dap.nix
   ];
 

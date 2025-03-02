@@ -1,7 +1,7 @@
 {
   plugins = {
     rustaceanvim.enable = true;
-    crates-nvim.enable = true;
+    crates.enable = true;
   };
   extraConfigLua = # lua
     ''
